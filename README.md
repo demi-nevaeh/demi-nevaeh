@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Pharmacist | Bioinformatics Researcher | Healthcare Data Analyst</h1>
+<h1 data-importer="text" align="left">Pharmacist | Bioinformatics Researcher | Data Analyst</h1>
 
 ###
 
